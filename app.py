@@ -2,3 +2,6 @@
 4
 
 print("hello")
+
+hello
+
